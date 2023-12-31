@@ -1,0 +1,15 @@
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\bin\Debug\net7.0\metodosLINQ.exe
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\bin\Debug\net7.0\metodosLINQ.deps.json
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\bin\Debug\net7.0\metodosLINQ.runtimeconfig.json
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\bin\Debug\net7.0\metodosLINQ.dll
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\bin\Debug\net7.0\metodosLINQ.pdb
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\metodosLINQ.csproj.AssemblyReference.cache
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\metodosLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\metodosLINQ.AssemblyInfoInputs.cache
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\metodosLINQ.AssemblyInfo.cs
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\metodosLINQ.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\metodosLINQ.dll
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\refint\metodosLINQ.dll
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\metodosLINQ.pdb
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\metodosLINQ.genruntimeconfig.cache
+D:\VisualStudio\CursoCSharp2023\metodosLINQ\metodosLINQ\obj\Debug\net7.0\ref\metodosLINQ.dll

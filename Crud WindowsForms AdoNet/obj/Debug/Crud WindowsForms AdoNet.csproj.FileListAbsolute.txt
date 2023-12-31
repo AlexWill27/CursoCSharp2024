@@ -1,0 +1,12 @@
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\bin\Debug\Crud WindowsForms AdoNet.exe.config
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\bin\Debug\Crud WindowsForms AdoNet.exe
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\bin\Debug\Crud WindowsForms AdoNet.pdb
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\obj\Debug\Crud WindowsForms AdoNet.csproj.AssemblyReference.cache
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\obj\Debug\Crud WindowsForms AdoNet.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\obj\Debug\Crud_WindowsForms_AdoNet.Form1.resources
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\obj\Debug\Crud_WindowsForms_AdoNet.Properties.Resources.resources
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\obj\Debug\Crud WindowsForms AdoNet.csproj.GenerateResource.cache
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\obj\Debug\Crud WindowsForms AdoNet.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\obj\Debug\Crud WindowsForms AdoNet.exe
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\obj\Debug\Crud WindowsForms AdoNet.pdb
+D:\VisualStudio\Crud WindowsForms AdoNet\Crud WindowsForms AdoNet\obj\Debug\Crud_WindowsForms_AdoNet.FrmNuevo.resources

@@ -1,0 +1,15 @@
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\bin\Debug\net7.0\Asyncronia.exe
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\bin\Debug\net7.0\Asyncronia.deps.json
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\bin\Debug\net7.0\Asyncronia.runtimeconfig.json
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\bin\Debug\net7.0\Asyncronia.dll
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\bin\Debug\net7.0\Asyncronia.pdb
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\Asyncronia.csproj.AssemblyReference.cache
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\Asyncronia.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\Asyncronia.AssemblyInfoInputs.cache
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\Asyncronia.AssemblyInfo.cs
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\Asyncronia.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\Asyncronia.dll
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\refint\Asyncronia.dll
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\Asyncronia.pdb
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\Asyncronia.genruntimeconfig.cache
+D:\VisualStudio\CursoCSharp2023\AsyncroniaC#\Asyncronia\Asyncronia\obj\Debug\net7.0\ref\Asyncronia.dll
